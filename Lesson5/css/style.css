@@ -1,0 +1,31 @@
+#ayamkalasan
+{
+    font-size:8pt;
+}
+
+#navigation {
+    background-color:green; 
+    float:right;
+}
+
+#tabel1 {
+    background-color:blue;
+}
+#tabel2 {
+    background-color:green;
+}
+
+table
+{
+    color:hotpink;
+    background-color:yellow;
+}
+
+.barispertama
+{
+    background-color:black; 
+    font-weight:bold; 
+    color:white; 
+    font-family:sans-serif"
+}
+
