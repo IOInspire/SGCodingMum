@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>Shifaa Cellular</title>
+    
+    
+<link rel="stylesheet" href="CSS.2" type="text/css" media="screen"/>
+
+</head>
+<body>
+ <div id="art-page-background-middle-texture">
+    <div id="art-main">
+     <div class="cleared reset-box"></div>
+     <div class="art-box art-sheet"></div>
+     <div class="art-box-body art-sheet-body">
+     <div class="art-header">
+     <div class="art-headerobject"></div>
+     <div class="art-logo">
+        <h1 class="art-logo-name">< href="#">ShifaaCellular</a></h1>
+        <h2 class="art-logo-text">Kami Menjual voucher game local & International, Tersedia juga Pulsa dan Kuota All Operator</h2>
+     </div>
+</div>
+    <div class="cleared reset-box"></div>
+    <div class="art-bar art-nav">
+    <div class="art-nav-outer">
+        <ul class="art-hmenu">
+        <li>
+         <a href="./" class="active">Home</a>
+        </li>
+        <li>
+            <a href="#"Belanja</a>
+            <ul>
+            <li><a href='./?pages=viewkeranjang'>Keranjang Anda</a><li>
+            <li><a href='./?pages=viewinvoice'>Invoice</a><li>
+            <li><a href='./?pages=viewpromosi'>Promosi</a><li>
+            </ul>
+        </li>
+    <li>
+      <a href="#">Kategori Produk</a>
+    
+    </body>
+
+</html>
