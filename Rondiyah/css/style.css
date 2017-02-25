@@ -7,7 +7,7 @@ html, body
 html
 {
      background: grey;
-    background-image: url(../image/android.jpg)
+    background-image:url(../image/banner/baanerr.jpg)
 }
 
 body
@@ -15,6 +15,43 @@ body
     width:960px;
     margin: 0 auto;
     padding:30px;
-    background: silver;
+    background: rgb(227, 169, 31) ;
     font-family: verdana;
+}
+
+ul li{
+    display: inline-block;
+    margin-right:5px;
+   
+   
+}
+ul
+{
+    width:600px;
+    
+    margin:0 auto;
+   
+}
+
+li a
+{
+    text-decoration: none;
+}
+
+#banner img
+{
+   height: 350px;
+    width: 100%;
+    margin:10px;
+   
+}
+#logo h1
+{
+    text-align: center;
+    font-family: "josefine slab";
+}
+
+#navigasi
+{
+    floating:left;
 }
