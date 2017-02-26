@@ -1,0 +1,29 @@
+ <html>
+ <head>
+ <link rel="stylesheet" href="css/style.css"> 
+         <title>SOCCER SOUVENIRS</title> 
+ </head>
+ <Body>
+         <table border="1" width="100%" height="10%" align="centre" cellspacing="2" cellpadding="5">
+          <tr align="centre" height="20">
+              <td valign="centre" bgcolor="blue">
+                  <table width="200&">
+                      <font color="white" face="arial" size="15" align="centre"><b><i>SOCCER<br>SOUVENIRS</i></b></font></table></td> </tr></table>
+         <table border="1" width="100%" height="5%" align="centre" cellspacing="2" cellpadding="5">
+          <tr align="centre" height="10">
+              <td valign="centre" bgcolor="green"><font color="white" face="Arial">HOME</font></td> 
+              <a href=""
+              <td valign="centre" bgcolor="red"><font color="white" face="Arial">NAVIGATION</font></td> 
+               <td valign="centre" bgcolor="light green"><font color="white" face="Arial">INFORMATION</font></td> 
+         </tr></table>
+         <Table border="1" width="100%" height="10%" align="on top" cellspacing="2" cellpadding="3" >
+          <tr align="top" height="500">
+          <td valign="top">
+              
+ </html>
+ 
+
+      
+    
+        
+      
