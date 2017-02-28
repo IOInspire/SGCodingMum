@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: powderblue;
 }
 
 #div-header{
@@ -7,8 +7,11 @@ body {
     height: 28%;
 }
 
-.td-invisible{
-    width: 10%;
+#wrapper
+{
+    text-align: left
+    width: 100%;
+    background-color: powderblue
 }
 
 #table-header{
@@ -16,22 +19,22 @@ body {
 }
 
 #td-logo{
-    width: 15%;
+    width: 10%;
     text-align: center;
     background-color: white;
 }
 
 #img-logo{
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
 }
 
 #td-header {
     width: 65%;
-    background-color:orangered;
+    background-color:white;
 }
 
-#table-header-nav{
+#table-header-menu{
     width: 100%;
 }
 
