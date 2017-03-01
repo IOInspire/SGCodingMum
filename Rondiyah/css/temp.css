@@ -5,12 +5,6 @@ html, body {
 html {
 	background-image: url(../image/banner/bannercircle.png);
 }
-body {
-	width: 960px;
-	background: #fff;
-	margin: 0 auto 2em;
-	font: 100% Georgia, "Times New Roman", Times, serif;
-}
 header {
 	background: rgb(35,125,176);
 	margin-bottom: 20px;
@@ -23,39 +17,6 @@ header h1 {
 	text-transform: uppercase;
 	letter-spacing:.1em;
 	margin-bottom: 15px;
-}
-article {
-	float: left;
-	width: 634px;
-}
-aside {
-	float: right;
-	width: 266px;
-	height: 500px;
-	padding: 20px;
-	background: rgb(173, 169, 130);
-}
-#col1 {
-	background: rgb(237, 228, 214);
-	height: 500px;
-	float: left;
-	padding: 20px;
-	width: 266px;
-}
-#col2 {
-	background: rgb(237, 228, 214);
-	height: 500px;
-	float: right;
-	padding: 20px;
-	width: 266px;
-}
-footer {
-	background: rgb(100, 98, 102);
-	line-height: 3em;
-	font-size: .6em;
-	color: white;
-	padding: 0 2em;
-	clear: both;
 }
 form
 {
@@ -82,7 +43,6 @@ input[placeholder]
 	list-style: none;
 	margin:0px 20px;
 }
-	
 a:link {
 	text-decoration: none;
 }
@@ -97,5 +57,54 @@ nav{
 	margin: 10px auto;
 	background: white;
 	clear: right;
+}
+body {
+	width: 960px;
+	background: #fff;
+	margin: 0 auto 2em;
+	font: 100% Georgia, "Times New Roman", Times, serif;
+}
+
+article {
+	float: left;
+	width: 634px;
+}
+
+#col1 {
+	background: rgb(237, 228, 214);
+	height: 500px;
+	float: left;
+	padding: 20px;
+	width: 266px;
+}
+#col2 {
+	background:rgb(173, 169, 130); 
+	height: 500px;
+	float: right;
+	padding: 20px;
+	width: 266px;
+}
+aside {
+	float: right;
+	width: 266px;
+	height: 500px;
+	padding: 20px;
+	background: rgb(237, 228, 214);
+}
+footer {
+	background: rgb(100, 98, 102);
+	line-height: 3em;
+	font-size: .6em;
+	color: white;
+	padding: 0 2em;
+	clear: both;
+}
+
+
+	
+
+#footerlabel{
+    font-size: 15px;
+   text-align: center;
 }
 	

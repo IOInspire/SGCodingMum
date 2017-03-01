@@ -5,11 +5,11 @@ body
 # header
 {
 font-family: fantasy;
-	font-color:black;
+	font-color:red;
 }
 # div id header
 {
 	background-color: cornsilk;
 	font-family: sans-serif;
-	font-color:green;
+	font-color:red;
 }

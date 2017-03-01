@@ -1,0 +1,100 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-image: url(../image/banner/bannercircle.png);
+}
+body {
+	width: 960px;
+	background: #fff;
+	margin: 0 auto 2em;
+	font: 100% Georgia, "Times New Roman", Times, serif;
+}
+header {
+	background: rgb(35,125,176);
+	margin-bottom: 20px;
+}
+header h1 {
+	font: normal 2em Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+	line-height: 4em;
+	text-transform: uppercase;
+	letter-spacing:.1em;
+	margin-bottom: 15px;
+}
+
+footer {
+	background: rgb(100, 98, 102);
+	line-height: 3em;
+	font-size: .6em;
+	color: white;
+	padding: 0 2em;
+	clear: both;
+}
+form
+{
+	float: right;
+	margin-bottom: 15px;
+}
+label
+{
+	font-style: italic;
+
+}
+input
+{
+	margin-right: 10px;
+}
+input[placeholder]
+{
+	font-style: italic;
+}
+#navigation li {
+	 
+	font-size: 20px;
+	float: left;
+	list-style: none;
+	margin:0px 20px;
+}
+	
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	color: rgb(76, 67, 65);
+}
+	
+	
+nav{
+			
+	height: 35px;
+	margin: 10px auto;
+	background: white;
+	clear: right;
+}
+#footerlabel{
+    font-size: 15px;
+   text-align: center;
+}
+article
+{
+    margin: 15px 25px;
+}
+#pic
+{
+   width: 425px;
+    height; 325;
+   margin: 0 auto;
+    
+}
+p
+{
+    line-height: 1.5em;
+}
+h1
+{
+    text-align: center;
+    color: darkcya
+}
