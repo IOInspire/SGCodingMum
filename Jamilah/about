@@ -17,7 +17,7 @@
                                 <td id="td-header-title">
                                     MEELA TAILOR
                                     <br>
-                                    <div id="div-header-desc">portal khusus (model jahitan) baju</div>
+                                    <div id="div-header-desc">portal khusus (cara membuat) baju</div>
                                 </td>
                             </tr>
                             <tr> 
@@ -40,7 +40,7 @@
                     <td class="td-invisible"></td>
                     <td id="td-body-sidebar">
                         <ul id="ul-sidebar">
-                            <li class="li-sidebar"><a href="jasa menjahit baju.html" class="a-sidebar">JASA MENJAHIT BAJU</a></li>         
+                            <li class="li-sidebar"><a href="wiskul.html" class="a-sidebar">JASA MENJAHIT BAJU</a></li>         
                             <li class="li-sidebar"><a href="resep.html" class="a-sidebar">MEELA TAILOR</a></li>
                             <li class="li-sidebar"><a href="contact.html" class="a-sidebar">Hubungi Kami</a></li>
                         </ul>
@@ -60,22 +60,16 @@
                         <hr>
                         <div class="div-content-title">Menerima Pesanan</div>
                         <div class="div-content-brief">
-                            Kami menerima jahitan  untuk acara keluarga,majlis taklim, panitia,seragam sekolah,gamis,kebaya,dan syar'i<p>Catatan: Pembayaran di muka(DP)minimal 30% dari total harga jahit,dibayarkan saat penyerahan bahan <p></p>dapat menghubungi kami di <a href="contact.html">sini</a>.
+                            Kami menerima jahitan  untuk acara keluarga,majlis taklim, panitia,seragam sekolah,gamis,kebaya,dan syar'i, dapat menghubungi kami di <a href="contact.html">sini</a>.
                         </div>
                         <br>
                         <hr>
-                        <div class="div-content-title">Jasa Menjahit Baju</div>
+                        <div class="div-content-title">Meela Tailor: cilacap</div>
                         <div class="div-content-brief">
-                             Berikut ini list harga menjahit kami: sudah termasuk ongkir dan furing <br>
-                            <ol>
-                            <li>baju gamis Rp.100.000,.</li>
-                            <li>seragam sekolah Rp.100.000,</li>
-                            <li>kebaya Rp.100.000,.</li>
-                            <li>baju kurung/syar'i Rp.100.000,.</li></ol>
+                            Saat kita berada di suatu tempat tentunya kita penasaran dan ingin tau apa saja yang ada di kota tersebut. Bahkan tak segan-segan kita ingin menjajalnya langsung, entah hal itu dari tempat wisata ataupun dari wisata kulinernya. Begitu pula halnya saat anda sedang berada di kota Bandung.
                             <br><br>
-                            Kami juga melayani free pengiriman satu Kecamatan
-                            ,salam santun Meela Tailor
-                            Baca selengkapnya di <a href="Jasa menjahit baju.html">sini</a>.
+                            Saat anda menyantap menu makanan yang ada di Bandung tentunya akan menjadi pengalaman tersendiri yang sangat mengesankan. Tapi, taukah anda tempat wisata kuliner Bandung murah dan enak?
+                            Baca selengkapnya di <a href="wiskul.html">sini</a>.
                         </div>
                     </td>
                     <td class="td-invisible"></td>
@@ -87,9 +81,9 @@
                 <tr>
                     <td class="td-invisible"></td>
                     <td id="td-footer">
-                        Copyright © 2017 Meela Tailor
+                        Copyright © 2017 Alexander HT
                         <br>
-                        
+                        Dilarang keras untuk berhenti belajar dan malas mencari tahu - semangat!
                         <br>
                     </td>
                     <td class="td-invisible"></td>
@@ -97,4 +91,5 @@
             </table>
         </div>
     </body>
-<html>
+<html></html>
+        
