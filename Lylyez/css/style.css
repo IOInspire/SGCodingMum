@@ -45,7 +45,7 @@ body {
     text-align: center;
     font-size: 40pt;
     font-family: fantasy;
-    color: white;
+    color: darkblue;
 }
 
 #td-header-nav{
@@ -55,14 +55,14 @@ body {
     text-align: center;
     font-size: 12pt;
     font-family: fantasy;
-    color: white;
+    color: limegreen;
 }
 
 #div-header-desc{
     text-align: center;
     font-size: 13pt;
     font-family: fantasy;
-    color: white;
+    color: blue;
 }
 
 #ul-header-nav {
@@ -86,7 +86,7 @@ body {
 }
 
 .li-header-nav .a-header-nav:hover {
-    background-color: bisque;
+    background-color: greenyellow;
 }
 
 #div-body{
@@ -99,7 +99,8 @@ body {
     height: 100%;
 }
 
-#td-body-sidebar{
+#td-body-alamat
+{
     width: 15%;
     height: auto;
     border-style: none;
@@ -107,20 +108,21 @@ body {
     text-align: center;
 }
 
-#ul-sidebar {
+#td-body-image {
     list-style-type: none;
+    text-align: center
     margin: 0;
     padding: 0;
 }
 
-.li-sidebar{
+.li-alamat{
     display: inline;
     float: none;
     font-family: fantasy;
     font-size: 12pt;
 }
 
-.a-sidebar{
+.a-alamat{
     display: block;
     padding: 10px;
     background-color: orangered;
@@ -138,10 +140,16 @@ body {
     height: 275px;
 }
 
+#td-table-content{
+    border-style: center;
+    
+}
+   
+ 
 #td-body-content{
     width: 65%;
     height: auto;
-    border-style: inset;
+    border-style: center;
     height: 100%;
     vertical-align: top;
     padding: 5pt;
@@ -178,16 +186,16 @@ body {
 }
 
 #td-footer{
-    background-color: orangered;
+    background-color: ;
     font-size:10pt;
-    color: white;
+    color: black;
     font-family: fantasy;
     text-align: right;
     padding: 5pt;
 }
 body
 {
-    color:red;
+    color:black;
 }
 
 #footer
