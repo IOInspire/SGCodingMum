@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: grey;
 }
 
 #div-header{
@@ -18,7 +18,7 @@ body {
 #td-logo{
     width: 15%;
     text-align: center;
-    background-color: white;
+    background-color: grey;
 }
 
 #img-logo{
@@ -28,7 +28,7 @@ body {
 
 #td-header {
     width: 65%;
-    background-color:orangered;
+    background-color:dodgerblue;
 }
 
 #table-header-nav{
@@ -52,14 +52,14 @@ body {
     text-align: center;
     font-size: 12pt;
     font-family: fantasy;
-    color: white;
+    color:yellow;
 }
 
 #div-header-desc{
     text-align: center;
     font-size: 13pt;
     font-family: fantasy;
-    color: white;
+    color:yellow;
 }
 
 #ul-header-nav {
@@ -77,7 +77,7 @@ body {
 .a-header-nav{
     display: block;
     padding: 10px;
-    background-color: white;
+    background-color:greenyellow;
     color: darkred;
     text-decoration: none;
 }
@@ -120,13 +120,13 @@ body {
 .a-sidebar{
     display: block;
     padding: 10px;
-    background-color: orangered;
-    color: white;
+    background-color:grey;
+    color: yellow;
     text-decoration: none;
 }
 
 .li-sidebar .a-sidebar:hover {
-    background-color: bisque;
+    background-color:dodgerblue;
     color: darkred;
 }
 
@@ -175,7 +175,7 @@ body {
 }
 
 #td-footer{
-    background-color: orangered;
+    background-color:grey;
     font-size:10pt;
     color: white;
     font-family: fantasy;

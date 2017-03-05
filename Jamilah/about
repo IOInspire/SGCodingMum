@@ -1,24 +1,23 @@
 <html>
-    <head>
-
-<link rel="stylesheet" href="css/style.css">
-        <title>Resep Makan</title>
-    </head>
+   <head>
+       <link rel="stylesheet" href="css/style.css">
+       <title>MEELA TAILOR</title>
+    </head> 
     <body>
         <div id="div-header">
             <table id="table-header">
                 <tr>
                     <td class="td-invisible"></td>
                     <td id="td-logo">
-                        <img src="images/rm-logo.png" id="img-logo" />
+                        <img src="image/PhotoGrid_1488332308413.png" id="img-logo" />
                     </td>
                     <td id="td-header">
                         <table id="table-header-nav">
                             <tr>
                                 <td id="td-header-title">
-                                    RESEP MAKAN
+                                    MEELA TAILOR
                                     <br>
-                                    <div id="div-header-desc">portal khusus buat yang 'resep' (baca:suka) makan</div>
+                                    <div id="div-header-desc">portal khusus (cara membuat) baju</div>
                                 </td>
                             </tr>
                             <tr> 
@@ -41,18 +40,19 @@
                     <td class="td-invisible"></td>
                     <td id="td-body-sidebar">
                         <ul id="ul-sidebar">
-                            <li class="li-sidebar"><a href="wiskul.html" class="a-sidebar">Wisata Kuliner</a></li>         
-                            <li class="li-sidebar"><a href="resep.html" class="a-sidebar">Resep Makan</a></li>
+                            <li class="li-sidebar"><a href="wiskul.html" class="a-sidebar">JASA MENJAHIT BAJU</a></li>         
+                            <li class="li-sidebar"><a href="resep.html" class="a-sidebar">MEELA TAILOR</a></li>
                             <li class="li-sidebar"><a href="contact.html" class="a-sidebar">Hubungi Kami</a></li>
                         </ul>
-                        <img src="images/sidebar-ads.gif" id="img-sidebar-ads"/>
+                        <img src="no%20telp%20order%20no7.jpg" id="img-sidebar-ads"/>
                     </td>
                     <td id="td-body-content">
-                        <div class="div-content-title">Resep Masak: Ayam Kalasan</div>
-                        <div class="div-content-brief"><img src="images/ayam-goreng-kalasan.jpg" class="img-content"/>
-                            Kalian pernah mencicipi ayam goreng kalasan? Bagi yang tinggal atau berasal dari daerah asalnya tentu sudah pada tau ya. Sesuai namanya, makanan khas yang satu ini berasal dari daerah Kalasan, Yogyakarta.
+                        <div class="div-content-title">contoh menjahit baju kurung/muslim</div>
+                        <div class="div-content-brief"><img src="image/baju%20kurung.jpg" class="img-content"/>
+                            Selamat datang di jasa menjahit baju meela tailor.
+                            Kami memberikan kepuasan pelayanan dengan sentuhan harga manis model dinamis
                             <br><br>
-                            Ayam goreng kalasan terkenal dengan bumbunya yang meresap sampai kedalam daging, dengan cita rasa yang kuat serta tekstur daging yang empuk. Bagi kalian yang penasaran akan rasanya, yuk kita coba membuatnya!
+                            ini salah satu contoh membuat baju kurung/muslim yang simlple
                             <br>
                             Baca selengkapnya di <a href="resep.html">sini</a>.
                         </div>
@@ -60,11 +60,11 @@
                         <hr>
                         <div class="div-content-title">Menerima Pesanan</div>
                         <div class="div-content-brief">
-                            Kami menerima pesanan catering untuk acara keluarga, pesta ulang tahun, dan pelbagai keperluan untuk maksimal 100 porsi makanan. Untuk memesan, dapat menghubungi kami di <a href="contact.html">sini</a>.
+                            Kami menerima jahitan  untuk acara keluarga,majlis taklim, panitia,seragam sekolah,gamis,kebaya,dan syar'i, dapat menghubungi kami di <a href="contact.html">sini</a>.
                         </div>
                         <br>
                         <hr>
-                        <div class="div-content-title">Wisata Kuliner: Bandung</div>
+                        <div class="div-content-title">Meela Tailor: cilacap</div>
                         <div class="div-content-brief">
                             Saat kita berada di suatu tempat tentunya kita penasaran dan ingin tau apa saja yang ada di kota tersebut. Bahkan tak segan-segan kita ingin menjajalnya langsung, entah hal itu dari tempat wisata ataupun dari wisata kulinernya. Begitu pula halnya saat anda sedang berada di kota Bandung.
                             <br><br>
@@ -91,4 +91,5 @@
             </table>
         </div>
     </body>
-</html>
+<html></html>
+        
