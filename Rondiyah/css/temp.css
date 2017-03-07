@@ -22,6 +22,7 @@ header h1 {
 h2
 {
     color: teal;
+    letter-spacing: 4px;;
 }
 form
 {
@@ -90,7 +91,7 @@ article {
 	width: 266px;
 }
 #col2 {
-	background:rgb(173, 169, 130); 
+	background:rgb(237, 228, 214);; 
 	height: 500px;
 	float: right;
 	padding: 20px;
@@ -119,4 +120,34 @@ footer {
     font-size: 15px;
    text-align: center;
 }
-	
+#promo img
+{
+    margin: 0 auto;
+    
+}
+.display
+{
+    width:120px;
+    height:115px;
+    margin: 10px 5px;
+    float: left;
+    
+}
+figcaption
+{
+    font-size: 10px;
+    text-align: center;
+}
+p, #services li
+{
+    line-height: 1.5em;
+    letter-spacing: 2px;
+}
+section
+{
+    border-right: 1px solid silver;;
+}
+#services li
+{
+    list-style: circle;
+}

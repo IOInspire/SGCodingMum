@@ -25,16 +25,14 @@ header h1 {
 	margin-bottom: 15px;
     text-shadow: 5px 5px 5px black;
 }
+
+h1
+{
+    text-align: center;
+    color: darkcya
 }
 
-footer {
-	background: rgb(100, 98, 102);
-	line-height: 3em;
-	font-size: .6em;
-	color: white;
-	padding: 0 2em;
-	clear: both;
-}
+
 form
 {
 	float: right;
@@ -83,10 +81,7 @@ nav{
 	background: white;
 	clear: right;
 }
-#footerlabel{
-    font-size: 15px;
-   text-align: center;
-}
+
 article
 {
     margin: 15px 25px;
@@ -94,7 +89,7 @@ article
 #pic
 {
    width: 425px;
-    height; 325;
+    height; 300px;
    margin: 0 auto;
     
 }
@@ -102,8 +97,16 @@ p
 {
     line-height: 1.5em;
 }
-h1
-{
-    text-align: center;
-    color: darkcya
+
+footer {
+	background: rgb(100, 98, 102);
+	line-height: 3em;
+	font-size: .6em;
+	color: white;
+	padding: 0 2em;
+	clear: both;
+}
+#footerlabel{
+    font-size: 15px;
+   text-align: center;
 }
