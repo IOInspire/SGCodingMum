@@ -23,6 +23,8 @@ header h1 {
 	text-transform: uppercase;
 	letter-spacing:.1em;
 	margin-bottom: 15px;
+    text-shadow: 5px 5px 5px black;
+}
 }
 
 footer {
@@ -58,7 +60,14 @@ input[placeholder]
 	list-style: none;
 	margin:0px 20px;
 }
+.main{
+    cursor:default;
+}
 	
+li a
+{
+    color: rgb(35,125,176);
+}
 a:link {
 	text-decoration: none;
 }

@@ -3,7 +3,7 @@ html, body {
 	padding: 0;
 }
 html {
-	background-image: url(../image/banner/bannercircle.png);
+	background-image: url(../image/banner/bgp.png);
 }
 header {
 	background: rgb(35,125,176);
@@ -17,6 +17,11 @@ header h1 {
 	text-transform: uppercase;
 	letter-spacing:.1em;
 	margin-bottom: 15px;
+    text-shadow: 5px 5px 5px black;
+}
+h2
+{
+    color: teal;
 }
 form
 {
@@ -42,6 +47,13 @@ input[placeholder]
 	float: left;
 	list-style: none;
 	margin:0px 20px;
+}
+li a
+{
+    color: rgb(35,125,176);
+}
+.main{
+    cursor: default;
 }
 a:link {
 	text-decoration: none;
