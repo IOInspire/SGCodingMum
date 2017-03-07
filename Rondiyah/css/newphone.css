@@ -1,4 +1,4 @@
--html, body {
+--html, body {
 	margin: 0;
 	padding: 0;
 }
@@ -50,6 +50,13 @@ input[placeholder]
 	float: left;
 	list-style: none;
 	margin:0px 20px;
+}
+.main{
+    cursor:default;
+}
+li a
+{
+    color: rgb(35,125,176);
 }
 figure{
     width:200px;

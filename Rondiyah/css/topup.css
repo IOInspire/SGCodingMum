@@ -1,4 +1,4 @@
-html, body {
+-html, body {
 	margin: 0;
 	padding: 0;
 }
@@ -25,14 +25,6 @@ header h1 {
 	margin-bottom: 15px;
     text-shadow: 5px 5px 5px black;
 }
-
-h1
-{
-    text-align: center;
-    color: darkcya
-}
-
-
 form
 {
 	float: right;
@@ -51,6 +43,7 @@ input[placeholder]
 {
 	font-style: italic;
 }
+
 #navigation li {
 	 
 	font-size: 20px;
@@ -61,11 +54,17 @@ input[placeholder]
 .main{
     cursor:default;
 }
-	
 li a
 {
     color: rgb(35,125,176);
 }
+figure{
+    width:200px;
+    height:250px;
+    margin-right: 55px;
+    float:left
+}
+	
 a:link {
 	text-decoration: none;
 }
@@ -76,28 +75,64 @@ a:hover {
 	
 nav{
 			
-	height: 35px;
+	height: 300x;
 	margin: 10px auto;
 	background: white;
 	clear: right;
 }
-
-article
+table
 {
-    margin: 15px 25px;
-}
-#pic
-{
-   width: 425px;
-    height; 300px;
-   margin: 0 auto;
+    width:400px;
+    height:250px;
+    border-collapse: collapse;
+    border-right: 1px solid rgba(0, 0, 0, .6);
+    margin-right: 40px;
+    margin-bottom: 25px;
     
 }
-p
+table
 {
-    line-height: 1.5em;
+    float: left;
+    
 }
-
+table td
+{
+    color: teal;
+}
+tr
+{
+    
+}
+tr th
+{
+    padding: 4px;
+    color: rgba(0,0,0,.6);
+    text-align: left;
+   
+    
+  
+    
+    
+    
+   
+}
+td
+{
+    width: 250px;
+    text-align: left;
+    border-right: 1px rgba(0, 0, 0, .6);
+    line-height: 2em;
+    
+    
+}
+caption
+{
+    margin: 25px 0;
+    color: rgba(0,0,0,.6);
+    font-size: 2.5em;
+    
+}
+    
 footer {
 	background: rgb(100, 98, 102);
 	line-height: 3em;
@@ -110,3 +145,12 @@ footer {
     font-size: 15px;
    text-align: center;
 }
+figcaption
+{
+    text-align: left;
+}
+article
+{
+    margin: 2.2em;
+}
+

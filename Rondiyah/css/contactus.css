@@ -25,14 +25,6 @@ header h1 {
 	margin-bottom: 15px;
     text-shadow: 5px 5px 5px black;
 }
-
-h1
-{
-    text-align: center;
-    color: darkcya
-}
-
-
 form
 {
 	float: right;
@@ -51,6 +43,7 @@ input[placeholder]
 {
 	font-style: italic;
 }
+
 #navigation li {
 	 
 	font-size: 20px;
@@ -61,11 +54,17 @@ input[placeholder]
 .main{
     cursor:default;
 }
-	
 li a
 {
     color: rgb(35,125,176);
 }
+div#map{
+   margin: 0 auto;
+    width: 450px;
+    height: 300px;
+}
+
+	
 a:link {
 	text-decoration: none;
 }
@@ -82,22 +81,6 @@ nav{
 	clear: right;
 }
 
-article
-{
-    margin: 15px 25px;
-}
-#pic
-{
-   width: 425px;
-    height; 300px;
-   margin: 0 auto;
-    
-}
-p
-{
-    line-height: 1.5em;
-}
-
 footer {
 	background: rgb(100, 98, 102);
 	line-height: 3em;
@@ -110,3 +93,17 @@ footer {
     font-size: 15px;
    text-align: center;
 }
+
+article
+{
+    margin: 2.2em;
+    
+}
+p{
+  
+   width: 250px;
+    position:relative;
+    top:-75px;
+    left:95px;
+}
+
