@@ -1,7 +1,31 @@
-body
-{
-	background-color:bisque;
+
+#table-header{
+	background-color:#AAEC72;
+	color:white;
+	text-align:center;
+	padding: 5px;
+	width: 100%;
 }
+<<<<<<< HEAD
+#table-spending{
+	background-color:#AAEC72;
+	color:white;
+	text-align:center;
+	padding: 5px;
+	width: 100%;
+	border-width: thick;
+	border:5px solid black;
+}
+#content-highlight{
+	background-color:turquoise;	
+	align-self: center;
+}
+
+
+.tab{
+	margin-left:40px;
+	text-indent: 100px;
+=======
 # header
 {
 font-family: fantasy;
@@ -12,4 +36,5 @@ font-family: fantasy;
 	background-color: cornsilk;
 	font-family: sans-serif;
 	font-color:red;
+>>>>>>> origin/master
 }
