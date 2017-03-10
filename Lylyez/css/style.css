@@ -1,7 +1,14 @@
 body {
-    background-color: powderblue;
-}
+    font: 16px/28px arial, sains-serif;
+    background-color: bisque;
+    background-image: url(buatbackmixer.jpg) 
+    }
 
+.container{
+    width: 800px;
+    margin: auto;
+    background-color: green;
+}
 #div-header{
     width: 100%;
     height: 28%;
@@ -11,7 +18,7 @@ body {
 {
     text-align: left
     width: 100%;
-    background-color: powderblue
+  
 }
 
 #table-header{
@@ -30,12 +37,13 @@ body {
 }
 
 #td-header {
-    width: 65%;
+    width: 100%;
     background-color:white;
 }
 
 #table-header-menu{
     width: 100%;
+    
 }
 
 #td-header-title{
@@ -45,7 +53,7 @@ body {
     text-align: center;
     font-size: 40pt;
     font-family: fantasy;
-    color: darkblue;
+    color: black;
 }
 
 #td-header-nav{
@@ -58,9 +66,16 @@ body {
     color: limegreen;
 }
 
+#td-body-content{
+    font-size: 20px;
+    color: black;
+    background: green;
+    
+}
+
 #div-header-desc{
     text-align: center;
-    font-size: 13pt;
+    font-size: 12pt;
     font-family: fantasy;
     color: blue;
 }
@@ -90,8 +105,11 @@ body {
 }
 
 #div-body{
+    clear: both;
+    margin: auto;
+    float: right;
     width: 100%;
-    height: 65%;
+    
 }
 
 #table-body{
@@ -130,12 +148,12 @@ body {
     text-decoration: none;
 }
 
-.li-sidebar .a-sidebar:hover {
+.li-alamat .a-alamat:hover {
     background-color: bisque;
     color: darkred;
 }
 
-#img-sidebar-ads{
+#img-alamat-ads{
     width: 185px;
     height: 275px;
 }
@@ -147,18 +165,20 @@ body {
    
  
 #td-body-content{
-    width: 65%;
-    height: auto;
-    border-style: center;
+    width: 100%;
+    height:;
+    border-style:;
     height: 100%;
-    vertical-align: top;
+    vertical-align: text-bottom;
     padding: 5pt;
+    float: center;
 }
 
 .div-content-title{
     font-family: sans-serif;
     font-size: 13pt;
     font-weight: bold;
+    border-style: none;
 }
 
 .div-content-brief{
@@ -175,9 +195,13 @@ body {
     padding-right: 5pt;
 }
 
-#div-footer{
+#div-footer{ 
+    clear: both;
+    position: relative;
     width: 100%;
-    height: 9%;
+    height: 9%;  
+    float: left;
+    
 }
 
 #table-footer{
@@ -185,22 +209,19 @@ body {
     height: 100%;
 }
 
-#td-footer{
-    background-color: ;
-    font-size:10pt;
-    color: black;
-    font-family: fantasy;
-    text-align: right;
-    padding: 5pt;
-}
 body
 {
     color:black;
 }
 
-#footer
+.footer
 {
-    font-size: 20pt;
+    padding: 5pt;
+    font-size: 11pt;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-family: fantasy;
 }
 
 
