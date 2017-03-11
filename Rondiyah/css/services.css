@@ -26,12 +26,19 @@ header h1 {
     text-shadow: 5px 5px 5px black;
 }
 
-h1
+#second
 {
     text-align: center;
-    color: darkcya
+    letter-spacing:2px;
+    font-family: verdana;
+    
 }
-
+h2
+{
+    letter-spacing: 2px;
+    font-family: verdana;
+    
+}
 
 form
 {
@@ -95,7 +102,10 @@ article
 }
 p
 {
+    font-size: 15px:
     line-height: 1.5em;
+    letter-spacing:2px;
+    font-family: verdana;
 }
 
 footer {
