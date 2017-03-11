@@ -3,7 +3,7 @@ html, body {
 	padding: 0;
 }
 html {
-	background-image: url(../image/banner/bannercircle.png);
+	background-image: url(../image/banner/bgp.png);
 }
 header {
 	background: rgb(35,125,176);
@@ -17,6 +17,12 @@ header h1 {
 	text-transform: uppercase;
 	letter-spacing:.1em;
 	margin-bottom: 15px;
+    text-shadow: 5px 5px 5px black;
+}
+h2
+{
+    color: teal;
+    letter-spacing: 4px;;
 }
 form
 {
@@ -42,6 +48,13 @@ input[placeholder]
 	float: left;
 	list-style: none;
 	margin:0px 20px;
+}
+li a
+{
+    color: rgb(35,125,176);
+}
+.main{
+    cursor: default;
 }
 a:link {
 	text-decoration: none;
@@ -78,7 +91,7 @@ article {
 	width: 266px;
 }
 #col2 {
-	background:rgb(173, 169, 130); 
+	background:rgb(237, 228, 214);; 
 	height: 500px;
 	float: right;
 	padding: 20px;
@@ -107,4 +120,34 @@ footer {
     font-size: 15px;
    text-align: center;
 }
-	
+#promo img
+{
+    margin: 0 auto;
+    
+}
+.display
+{
+    width:120px;
+    height:115px;
+    margin: 10px 5px;
+    float: left;
+    
+}
+figcaption
+{
+    font-size: 10px;
+    text-align: center;
+}
+p, #services li
+{
+    line-height: 1.5em;
+    letter-spacing: 2px;
+}
+section
+{
+    border-right: 1px solid silver;;
+}
+#services li
+{
+    list-style: circle;
+}
