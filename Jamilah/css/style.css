@@ -77,7 +77,7 @@ body {
 .a-header-nav{
     display: block;
     padding: 10px;
-    background-color:greenyellow;
+    background-color:dodgerblue;
     color: darkred;
     text-decoration: none;
 }
@@ -121,7 +121,7 @@ body {
     display: block;
     padding: 10px;
     background-color:grey;
-    color: yellow;
+    color: dodgerblue;
     text-decoration: none;
 }
 
@@ -177,7 +177,7 @@ body {
 #td-footer{
     background-color:grey;
     font-size:10pt;
-    color: white;
+    color:yellow;
     font-family: fantasy;
     text-align: right;
     padding: 5pt;
